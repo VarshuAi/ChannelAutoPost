@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Telegram bot to auto post messages of one channel in another channel as soon as it is posted, without the forwarded tag.
+  name: ChannelAutoPost version: 1.0 type: Repository author: VarshuAi description: >   Telegram bot to auto post messages of one channel in another channel as soon as it is posted, without the forwarded tag. primary_tech: Python
 primary_tech: Python
 ```
 
